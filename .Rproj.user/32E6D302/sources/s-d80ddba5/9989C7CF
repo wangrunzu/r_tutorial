@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509408347929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9989C7CF",
+    "lastKnownWriteTime" : 1503537214,
+    "last_content_update" : 1503537214,
+    "path" : "~/shared/r_tutorial/t_graphs.R",
+    "project_path" : "t_graphs.R",
+    "properties" : {
+        "cursorPosition" : "16,38",
+        "scrollLine" : "10"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
